@@ -1,6 +1,6 @@
 package level1;
 
-/*Á¤¼ö¸¦ ´ã°í ÀÖ´Â ¹è¿­ arrÀÇ Æò±Õ°ªÀ» returnÇÏ´Â ÇÔ¼ö, solutionÀ» ¿Ï¼ºÇØº¸¼¼¿ä.*/
+/*ì •ìˆ˜ë¥¼ ë‹´ê³  ìˆëŠ” ë°°ì—´ arrì˜ í‰ê· ê°’ì„ returní•˜ëŠ” í•¨ìˆ˜, solutionì„ ì™„ì„±í•´ë³´ì„¸ìš”.*/
 
 public class Solution_6 {
 	public double solution(int[] arr) {
