@@ -1,6 +1,7 @@
 package level1;
 
-//짝수와 홀수
+/*
+짝수와 홀수*/
 public class Solution_9 {
 	public String solution(int num) {
         String answer = "";
