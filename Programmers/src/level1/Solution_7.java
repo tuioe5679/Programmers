@@ -1,6 +1,7 @@
 package level1;
 
-//콜라츠 추측
+/*
+콜라츠 추측*/
 public class Solution_7 {
 	public int solution(long num) {
 		long value = 0;
