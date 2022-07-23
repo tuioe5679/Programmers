@@ -1,7 +1,7 @@
 package level1_1;
 
 /*
-정수 제곱근 판별*/
+제일 작은 수 제거하기*/
 public class Solution_10 {
 
 }
